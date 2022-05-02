@@ -8,6 +8,8 @@ So here is the challenge:
 
 Can you modify the app [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro) so that when it launches, it now starts by printing out "Hello Waldo" to logcat?
 
+Now, can you think of a process to do so for any Android apk?
+
 ## Submit
 
 This is not really an implementation challenge per se. We'd like to read your thinking process, and be able to assess that it works as advertised.
