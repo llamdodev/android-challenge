@@ -14,4 +14,5 @@ Now, can you think of a process to do so for any Android apk?
 
 This is not really an implementation challenge per se. We'd like to read your thinking process, and be able to assess that it works as advertised.
 
-So please send to developers@waldo.io the modified apk (or a link to it) along with a short documentation of what you did to get there.
+You should have received an upload link from us. Please zip your work once it's complete and upload it there.
+Your work should contain the modified .apk along with a short documentation of what you did to get there.
